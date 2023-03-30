@@ -1,0 +1,8 @@
+com\tuling\springbootsecurity\config\MyWebSecurityConfig.class
+com\tuling\springbootsecurity\config\MyExceptionHandler.class
+com\tuling\springbootsecurity\SpringBootSecurityApplication.class
+com\tuling\springbootsecurity\comtroller\MobileController.class
+com\tuling\springbootsecurity\comtroller\LoginController.class
+com\tuling\springbootsecurity\comtroller\SalaryController.class
+com\tuling\springbootsecurity\config\MyWebConfig.class
+com\tuling\springbootsecurity\config\MyUserService.class
